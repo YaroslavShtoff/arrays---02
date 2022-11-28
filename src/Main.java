@@ -27,7 +27,7 @@ public class Main {
         // Задача 3
 
         double  average = (double) sum / arr.length;
-        System.out.println("Средняя сумма трат за месяц составила " + average + " рублей");
+        System.out.println("Средняя сумма трат за месяц составила " + average + " рублей ");
 
         // Задача 4
         char[] reverseFullName = { 'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
